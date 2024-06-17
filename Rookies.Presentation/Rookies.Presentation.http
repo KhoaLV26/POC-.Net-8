@@ -1,0 +1,6 @@
+@Rookies.Presentation_HostAddress = http://localhost:5008
+
+GET {{Rookies.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
